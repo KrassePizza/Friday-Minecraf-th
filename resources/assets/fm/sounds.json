@@ -1,0 +1,15 @@
+{
+	"entity.jason.ambient":
+	{
+		"category": "entity",
+		"subtitle": "entity.jason.ambient",
+		"sounds": [{ "name": "fm:entity/jason/ambient", "stream": true}]
+	},
+	
+	"entity.jason.death":
+	{
+		"category": "entity",
+		"subtitle": "entity.jason.death",
+		"sounds": [{ "name": "fm:entity/jason/death", "stream": true}]
+	}
+}

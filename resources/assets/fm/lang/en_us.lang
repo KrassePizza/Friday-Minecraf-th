@@ -1,0 +1,30 @@
+
+//Items
+item.amethyst.name=Amethyst
+item.irongoldingot.name=Irongold Ingot
+item.redstoneparticle.name=Redstone Particle
+item.glowingredstone.name=Glowing Redstone
+
+item.machete.name=Machete
+item.hockeymask.name=Hockey Mask
+
+//Blocks
+tile.amethyst_block.name=Block of Amethyst
+
+//Nukes
+tile.nuke_block.name=Nuclear Bomb
+
+//Tools
+item.amethyst_pickaxe.name=Amethyst Pickaxe
+item.amethyst_sword.name=Amethyst Sword
+
+//Staffs
+item.fireball_staff.name=Staff of Fire
+item.wither_staff.name=Staff of the Wither
+
+//Other Stuff
+tile.blackhole_block.name=Black Hole
+itemGroup.fridaymodtab=Friday Minecraf'th
+
+//Entities
+entity.jason.name=Jason
